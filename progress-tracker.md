@@ -63,7 +63,11 @@
 - Executed `npm run build` with 12 routes generated (static and dynamic endpoints).
 - Compiled successfully with 0 errors.
 
-## How to Run
+## Repository & Deployment
+
+- **GitHub Repository**: [https://github.com/Kehinde-Crypto/nepsix-agent](https://github.com/Kehinde-Crypto/nepsix-agent) (Branch: `main`)
+
+## How to Run Locally
 
 1. `npm run dev` in `c:\Users\HP\nepsixagent`
 2. Open `http://localhost:3000` in browser or mobile viewport emulator.
